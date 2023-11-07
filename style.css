@@ -1,0 +1,33 @@
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.player {
+    background-color: blue; /* Farve for spilleren */
+}
+
+.ball {
+    background-color: red; /* Farve for bolden */
+}
+
+.maze {
+    display: grid;
+    grid-template-columns: repeat(5, 40px);
+    grid-gap: 2px;
+}
+
+.wall {
+    width: 40px;
+    height: 40px;
+    background-color: #000;
+}
+
+.path {
+    width: 40px;
+    height: 40px;
+    background-color: #fff;
+} */
